@@ -2,3 +2,4 @@ transformers
 huggingface_hub
 nltk
 gradio
+pyvis
